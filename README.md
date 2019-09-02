@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wicaeed/azure-arm-templates/_apis/build/status/azure-arm-templates?branchName=master)](https://dev.azure.com/wicaeed/azure-arm-templates/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
