@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/wicaeed/azure-arm-templates/_apis/build/status/azure-arm-templates?branchName=master)](https://dev.azure.com/wicaeed/azure-arm-templates/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/wicaeed/Test%20Project/_apis/build/status/Wicaeed.pipelines-java?branchName=master)](https://dev.azure.com/wicaeed/Test%20Project/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
